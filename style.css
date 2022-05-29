@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+
+}
+hr {
+  border:5px none #ECE5C7;
+  border-top-style: dotted;
+  width: 75%;
+}
+h1 {
+   color: #827397;
+   font-family: Monospace, Lucida Console;
+   font-size: 50px;
+}
+p {
+    color: #ECE5C7;
+    font-size: 20px;
+    font-family: Monospace, Lucida Console;
+}
+table {
+  border: 2px solid #C2DED1;
+  color: #827397;
+  font-family: Monospace, Lucida Console;
+}
+.tr:hover {
+  background-color: #ECE5C7;
+  cursor: pointer;
+}
+.intro {
+  background-color:#C2DED1;
+}
+.table {
+   border-collapse: separate;
+   border-spacing: 20px;
+   font-size: 20px;
+   font-family: Monospace, Lucida Console;
+   color: #827397;
+}
+.first:hover {
+  border-bottom: 2pt solid #ECE5C7;
+  cursor: pointer;
+}
+.second:hover {
+  border-bottom: 2pt solid #ECE5C7;
+  cursor: pointer;
+}
+.third:hover {
+  border-bottom: 2pt solid #ECE5C7;
+  cursor: pointer;
+}
+.fourth:hover {
+  border-bottom: 2pt solid #ECE5C7;
+  cursor: pointer;
+}
+.pic1 {
+  width: 500px;
+  height: 350px;
+}
+.welcome {
+  margin-top: 0;
+  padding: 20px;
+  background-color: #827397;
+}
+.welcome-heading {
+  border: solid;
+  border-color: #C2DED1;
+  color: #CDC2AE;
+}
+.subtitle {
+    color: #827397;
+    font-family: Monospace, Lucida Console;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: #ECE5C7;
+    text-decoration-thickness: 6px;
+
+}
+.abilities {
+    background-color: #C2DED1;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.ability-heading {
+  border: solid;
+  border-color: #ECE5C7;
+}
+.th {
+  font-size: 25px;
+}
+.button {
+  background-color: #C2DED1;
+ border: none;
+ border-radius: 10px;
+ color: #354259;
+ padding: 15px 60px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+}
+.button:hover {
+  cursor: pointer;
+}
+.newsletter {
+  color: #ECE5C7;
+  font-size: 25px;
+}
+.talk {
+  background-color: #354259;
+  padding: 20px;
+}
